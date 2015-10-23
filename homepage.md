@@ -14,7 +14,7 @@ SRCCON is a two-day conference built around participatory sessions and focused o
 
 <ul class="homepage" style="margin-bottom:8em;">
 
-<li class="left"><a href="http://schedule.srccon.org"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="http://schedule.srccon.org">Schedule</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="http://schedule.srccon.org">The full 2015 schedule is available</a>. </p></li>
+<li class="left"><a href="/schedule"><img src="/media/img/2015/session_dot.jpg"></a><h3><a href="/schedule">Schedule</a></h3><p>Our peer-led sessions combine skillsharing, discussion, and collaboration. <a href="/schedule">The full 2015 schedule is available</a>. </p></li>
 
 <li class="right"><a href="/transcription"><img src="/media/img/2015/remote_dot.jpg"></a><h3><a href="/transcription">Remote Participation</a></h3><p>Enjoy SRCCON sessions long into the future via archived transcripts. <a href="/transcription">See a full list</a>. </p></li>
 

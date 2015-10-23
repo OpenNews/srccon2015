@@ -14,7 +14,7 @@ redirect_from:
 SRCCON 2015 takes place at the <a href="https://www.google.com/maps/place/mcnamara+alumni+center/@44.975251,-93.227871,15z/data=!4m2!3m1!1s0x0:0x5f984f594ceab6ad?sa=X&ei=9qzmVISFC4iegwTskYDYCg&ved=0CIcBEPwSMBA">McNamara Alumni Center</a> on the University of Minnesota campus in Minneapolis.
 
 ## Schedule
-The [full SRCCON schedule](http://schedule.srccon.org) is now live. SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26.
+The [full SRCCON schedule](/schedule) is now live. SRCCON will run from 9am till 9pm on Thursday, June 25 (including breakfast and non-session evening activities), and from 10am till 6:15pm on Friday, June 26.
 
 ## Transit
 <p>The <a href="http://www.metrotransit.org/metro-system">Minneapolis METRO system</a> is an easy way to get around the city. You can ride light rail from the airport to the conference hotel for $1.75: Follow the light rail signs to the airport tram, which will take you right to the light rail station. Take the northbound ("Downtown Minneapolis") Blue Line to the Downtown East station, then cross to the other track to transfer to the eastbound Green Line. Take the Green Line two stops to East Bank. You’ll be looking right at <a href="http://www.commonshotel.com/">The Commons Hotel</a>. The <a href="http://www.mac-events.org/">McNamara Alumni Center</a> conference venue is another block past the hotel, on SE Oak Street.</p>
